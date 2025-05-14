@@ -12,7 +12,7 @@
 
 ```yaml
 Họ tên: Bùi Trịnh Minh Ngọc
-Vai trò: Thực tập sinh Phân tích Dữ liệu Kinh doanh @ FPT Telecom
+Vai trò: Trưởng ban Chuyên môn - DAB
 Trình độ: Sinh viên năm 2 - Đại học Thương Mại
 Sở trường:
   - Lập trình Python (pandas, matplotlib, seaborn)
