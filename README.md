@@ -26,26 +26,30 @@ Hiện tại:
 ```
 
 ---
+## ⚙️ Công nghệ mình dùng
 
-## 🛠️ Kỹ năng & Công cụ
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
+| 💡 Lập trình | 🔎 Dữ liệu | 📈 Trực quan hóa | 🤖 AI & ML | 🌐 Triển khai |
+|-------------|-----------|------------------|------------|----------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) | ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white) |
+| ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) | ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black) | ![XGBoost](https://img.shields.io/badge/-XGBoost-EC4E00?logo=xgboost&logoColor=white) | ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FCC624?logo=huggingface&logoColor=black) |
 
 ---
 
-## 📈 Dự án nổi bật
+---
 
-- 🧠 **Stock AI Analyst** – Hệ thống dự báo và gợi ý giao dịch cổ phiếu theo thời gian thực sử dụng LSTM + XGBoost + RAG + Reinforcement Learning
-- 📊 **Phân khúc nhân viên theo hiệu suất** – Dựa trên RFM, trực quan hóa hiệu quả
-- 📰 **Phân tích tin tức tài chính** – NLP + LSTM để phân tích cảm xúc thị trường
-- 💼 **Chuỗi workshop nghề nghiệp** – Dành cho CLB Phân tích Dữ liệu Kinh doanh
+## 📌 Dự án nổi bật
 
+- 📈 **Stock AI Analyst**  
+  Hệ thống AI phân tích, dự báo và đưa tín hiệu giao dịch cổ phiếu sử dụng LSTM + NLP + Reinforcement Learning + RAG.
+
+- 🧠 **Phân loại khách hàng bằng RFM**  
+  Dựa trên doanh thu, đơn hàng, hiệu suất — kết hợp phân khúc & biểu đồ trực quan đẹp mắt.
+
+- 📰 **Phân tích tin tức tài chính**  
+  Sử dụng NLP & LSTM để phân tích cảm xúc từ các bản tin chứng khoán.
+
+- 📊 **Chuỗi Workshop CLB Phân tích Dữ liệu Kinh doanh (DAB)**  
+  Hướng dẫn SQL, xây dựng portfolio, trực quan hóa bằng Tableau & Power BI.
 ---
 
 ## 🌱 Hành trình học tập
