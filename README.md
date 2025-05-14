@@ -1,6 +1,6 @@
 
 <h1 align="center">Xin chào 👋, mình là Bùi Trịnh Minh Ngọc</h1>
-<h3 align="center">🚀 Người yêu dữ liệu | 💻 Lập trình viên Python | 📊 Nghệ sĩ trực quan hóa | 🔍 Nhà khám phá Machine Learning</h3>
+<h3 align="center">🚀 Data Enthusiast | 💻 Pythonic Thinker | 📊 Visualization Artist | 🔍 Machine Learning Explorer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZnaXVqNTkwOGtkNjBoam1kdDhtOHF6cDlnMXg3cTVrbGZkMmhiOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aQyrN6kZlPEkU/giphy.gif" width="400"/>
@@ -50,22 +50,21 @@ Hiện tại:
 
 ## 🌱 Hành trình học tập
 
-- 🎯 Mục tiêu IELTS: từ 3.0 → 7.0 (đang luyện tập mỗi ngày)
 - 📚 Sách yêu thích: Deep Learning with Python, Data Science for Business
 - 🤝 Hỗ trợ các bạn sinh viên khác học SQL & trực quan hóa dữ liệu
 
 ---
 
 ## 📫 Kết nối với mình nhé!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/btmnngoc/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/buitrinh.minhngoc/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:btmnngoc@gmail.com)
 
 ---
 
 ## 🧠 Câu nói truyền cảm hứng
 
-> *“Dữ liệu là dầu mỏ mới, nhưng **tri thức khai thác từ nó** mới là thứ tạo ra năng lượng cho quyết định.”* – Ngọc 😎
+> *“Ngọc chưa có nghĩ ra”* – Ngọc 😎
 
 ---
 
