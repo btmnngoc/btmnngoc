@@ -13,7 +13,9 @@
 ```yaml
 Họ tên: Bùi Trịnh Minh Ngọc
 Vai trò: Trưởng ban Chuyên môn - DAB
-Trình độ: Sinh viên năm 2 - Đại học Thương Mại
+Trình độ:
+  - Sinh viên năm 2 - Đại học Thương Mại
+  - Quý quân Data Explorers 2025 
 Sở trường:
   - Lập trình Python (pandas, matplotlib, seaborn)
   - SQL (SQL Server, tối ưu truy vấn)
@@ -21,7 +23,6 @@ Sở trường:
   - Dự báo chuỗi thời gian (LSTM, ARIMA, XGBoost)
   - AI & Machine Learning ứng dụng trong chứng khoán 📈
 Hiện tại:
-  - Tham gia cuộc thi Data Explorers 🧠
   - Xây dựng mô hình AI dự báo cổ phiếu FPT & CMG 📉📈
 ```
 
