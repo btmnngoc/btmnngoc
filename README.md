@@ -1,6 +1,6 @@
 
 <h1 align="center">Xin chào 👋, mình là Bùi Trịnh Minh Ngọc</h1>
-<h3 align="center">🚀 Data Enthusiast | 💻 Pythonic Thinker | 📊 Visualization Artist | 🔍 Machine Learning Explorer</h3>
+<h3 align="center">🚀 Data Analyst (DA) | IT Business Analyst (ITBA) | IT Project Manager (ITPM) | Product Owner (PO)</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZnaXVqNTkwOGtkNjBoam1kdDhtOHF6cDlnMXg3cTVrbGZkMmhiOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aQyrN6kZlPEkU/giphy.gif" width="400"/>
@@ -40,6 +40,12 @@ Hiện tại:
 
 ## 📌 Dự án nổi bật
 
+- 🌐 **INNOTEEN – Hệ sinh thái sinh viên đổi mới sáng tạo**  
+  Cộng đồng sinh viên Gen Z ứng dụng dữ liệu, công nghệ và AI vào các lĩnh vực như tài chính, marketing, nhân sự, truyền thông,…
+
+- 💸 **DABAFIN – Trợ lý tài chính thông minh dành cho Gen Z**  
+  Phân tích hành vi người dùng, gợi ý khoản vay cá nhân, nhắc nợ tự động & đào tạo kiến thức tài chính ứng dụng.
+
 - 📈 **Stock AI Analyst**  
   Hệ thống AI phân tích, dự báo và đưa tín hiệu giao dịch cổ phiếu sử dụng LSTM + NLP + Reinforcement Learning + RAG.
 
@@ -51,7 +57,6 @@ Hiện tại:
 
 - 📊 **Chuỗi Workshop CLB Phân tích Dữ liệu Kinh doanh (DAB)**  
   Hướng dẫn SQL, xây dựng portfolio, trực quan hóa bằng Tableau & Power BI.
----
 
 ## 🌱 Hành trình học tập
 
